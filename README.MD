@@ -9,7 +9,9 @@ Enter a phrase to generate a book title: The mystery of
 
 Generated title: The mystery of notting hill house
 
-# Install Dependencies
+# Install Dependencies (depending on your environment)
 py -m pip install tensorflow numpy
+
 or
+
 pip3 install tensorflow numpy
