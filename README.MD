@@ -9,9 +9,18 @@ Enter a phrase to generate a book title: The mystery of
 
 Generated title: The mystery of notting hill house
 
-# Install Dependencies (depending on your environment)
+# Install Dependencies 
+Depending on your environment:
+
 py -m pip install tensorflow numpy
 
 or
 
 pip3 install tensorflow numpy
+
+# Linux Instructions
+Linux requires first creating/activating a virtual environment prior to installing TensorFlow:
+
+python3 -m venv tensorflow
+
+source tensorflow/bin/activate
